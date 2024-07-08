@@ -1,6 +1,8 @@
 {
   "name": "crypto-link",
   "version": "0.1.0",
+  "description": "A simple frontend application built with Next.js for depositing tokens into a vault.",
+  "author": "Septian Maulana",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,6 +14,22 @@
     "postpack": "pinst --enable",
     "release": "semantic-release"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tianbuyung/crypto-link.git"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "vault",
+    "crypto",
+    "tokens",
+    "deposit"
+  ],
+  "bugs": {
+    "url": "https://github.com/tianbuyung/crypto-link/issues"
+  },
+  "homepage": "https://github.com/tianbuyung/crypto-link#readme",
   "dependencies": {
     "next": "14.2.4",
     "react": "^18",
