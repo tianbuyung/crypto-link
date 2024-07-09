@@ -1,3 +1,11 @@
+# [0.4.0](https://github.com/tianbuyung/crypto-link/compare/v0.3.0...v0.4.0) (2024-07-09)
+
+
+### Features
+
+* **config:** add transports & custom RPC provider ([618d061](https://github.com/tianbuyung/crypto-link/commit/618d0610a4c39a568bcb347122c54935b31e2ee0))
+* **web3:** integrate RainbowKit with Next.js ([17e7094](https://github.com/tianbuyung/crypto-link/commit/17e709440032224653a6565da7429c12f35f1278))
+
 # [0.3.0](https://github.com/tianbuyung/crypto-link/compare/v0.2.0...v0.3.0) (2024-07-09)
 
 
