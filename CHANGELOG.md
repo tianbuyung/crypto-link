@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/tianbuyung/crypto-link/compare/v0.4.0...v0.5.0) (2024-07-09)
+
+
+### Features
+
+* **crypto:** implement crypto components and data services ([d97cb52](https://github.com/tianbuyung/crypto-link/commit/d97cb52ceab5bd7201308f8fdb726165bc8142c7))
+
 # [0.4.0](https://github.com/tianbuyung/crypto-link/compare/v0.3.0...v0.4.0) (2024-07-09)
 
 
