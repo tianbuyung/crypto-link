@@ -1,3 +1,10 @@
+# [0.6.0](https://github.com/tianbuyung/crypto-link/compare/v0.5.0...v0.6.0) (2024-07-10)
+
+
+### Features
+
+* **docs:** update readme, package.json, bump ver to 1.0.0 ([be92b32](https://github.com/tianbuyung/crypto-link/commit/be92b32e749c6ba0e26399e09699d84e8998bb43))
+
 # [0.5.0](https://github.com/tianbuyung/crypto-link/compare/v0.4.0...v0.5.0) (2024-07-09)
 
 
