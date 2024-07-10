@@ -1,4 +1,4 @@
-# [0.6.0](https://github.com/tianbuyung/crypto-link/compare/v0.5.0...v0.6.0) (2024-07-10)
+# [1.0.0](https://github.com/tianbuyung/crypto-link/compare/v0.5.0...v1.0.0) (2024-07-10)
 
 
 ### Features
