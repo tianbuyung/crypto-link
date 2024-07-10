@@ -1,7 +1,7 @@
 {
   "name": "crypto-link",
-  "version": "0.1.0",
-  "description": "A simple frontend application built with Next.js for depositing tokens into a vault.",
+  "version": "1.0.0",
+  "description": "A simple frontend application built with Next.js for connect to web3 and monitor top 5 market capitalization on real time.",
   "author": "Septian Maulana",
   "private": true,
   "scripts": {
@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/tianbuyung/crypto-link/issues"
   },
-  "homepage": "https://github.com/tianbuyung/crypto-link#readme",
+  "homepage": "https://github.com/tianbuyung/crypto-link#crypto-link-app",
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-dropdown-menu": "^2.1.1",
